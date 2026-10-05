@@ -1,0 +1,77 @@
+style.css
+
+.resume-container {
+  font-family: Arial, sans-serif;
+  color: #333333;
+  line-height: 1.5;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f0f0f0;
+
+}
+
+
+
+
+.normal-weight {
+  font-weight: 400;
+}
+
+/* Header Styles */
+.resume-header {
+  margin-bottom: 20px;
+}
+
+.resume-header h1 {
+  font-size: 24px;
+  font-weight: bold;
+  margin: 0 0 5px 0;
+}
+
+.contact-info span {
+  display: block;
+}
+
+/* Section & Heading Styles */
+.resume-section {
+  margin-bottom: 20px;
+}
+
+.resume-section h2 {
+  font-size: 18px;
+  font-weight: bold;
+  border-bottom: 2px solid #cccccc;
+  padding-bottom: 4px;
+  margin-bottom: 12px;
+}
+
+.resume-section h3 {
+  font-size: 15px;
+  font-weight: bold;
+  margin: 12px 0 2px 0;
+}
+
+/* Experience & Job Details */
+.job-item {
+  margin-bottom: 15px;
+}
+
+.job-title-row {
+  font-style: italic;
+  margin-bottom: 6px;
+}
+
+.job-role {
+  font-weight: bold;
+}
+
+/* Lists */
+.resume-container ul {
+  margin: 5px 0 15px 20px;
+  padding: 0;
+}
+
+.resume-container li {
+  margin-bottom: 4px;
+}
